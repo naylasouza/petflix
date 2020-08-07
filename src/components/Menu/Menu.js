@@ -12,7 +12,7 @@ function Menu() {
                 <img className="Logo" src={Logo} alt="petlix logo" />
             </a>
 
-            <Button className="botaolink" href="/">
+            <Button as="a"className="botaolink" href="/">
                 Novo vídeo
             </Button>
         </nav>
