@@ -3,4 +3,4 @@
 Orgulhosamente desenvolvido em React durante a "Imersão React da Alura"
 
 ## Acesse o projeto 
-Link:
+Link: https://petsflix.netlify.app/
