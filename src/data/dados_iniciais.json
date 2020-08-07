@@ -1,0 +1,186 @@
+{
+  "categorias": [
+    {
+      "titulo": "Gatos",
+      "link": "https://www.youtube.com/watch?v=eMEZTl-7Vvw",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "OS VÍDEOS MAIS ENGRAÇADOS DE CÃES E GATOS 2020",
+        "url": "https://www.youtube.com/watch?v=Nu5K2IRrsiY"
+      },
+      "videos": [
+        {
+          "titulo": "FOFINHOS E BONS COMPANHEIROS ❤",
+          "url": "https://www.youtube.com/watch?v=eCyWdJttG6c"
+        },
+        {
+          "titulo": "Os gatos mais adoráveis ​​do mundo EP1",
+          "url": "https://www.youtube.com/watch?v=b8iTTiU7Ot0"
+        },
+        {
+          "titulo": "Gatos vs Espelho",
+          "url": "https://www.youtube.com/watch?v=SlkUn7A_pYU"
+        },
+        {
+          "titulo": "TENTE NÃO RIR OS VÍDEOS DE GATOS MAIS ENGRAÇADOS",
+          "url": "https://www.youtube.com/watch?v=eMEZTl-7Vvw&t=82s"
+        },
+        {
+          "titulo": "TENTE NÃO RIR OS VÍDEOS DE GATOS MAIS ENGRAÇADOS",
+          "url": "https://www.youtube.com/watch?v=zbDQgFtce5M"
+        },
+        
+        {
+          "titulo": "Gatos engraçados",
+          "url": "https://www.youtube.com/watch?v=TTSmKmwjdEc&list=RDMD-fIj6pvGc&index=10"
+        }        
+      ]
+    },
+    {
+      "titulo": "Cachorros",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "TENTE NÃO RIR",
+        "url": "https://www.youtube.com/watch?v=6O6dYs9QjWs"
+      },
+      "videos": [
+        {
+          "titulo": "Cachorros sendo cachorros",
+          "url": "https://www.youtube.com/watch?v=EpqUjQ9zeys"
+        },
+        {
+          "titulo": "um bonito vídeos filhote de cachorro",
+          "url": "https://www.youtube.com/watch?v=psWeAReIv1c"
+        },
+        {
+          "titulo": "CACHORROS FOFOS",
+          "url": "https://www.youtube.com/watch?v=_d1FQtrrigs"
+        },
+        {
+          "titulo": "Baby Dogs - Cute and Funny Dog",
+          "url": "https://www.youtube.com/watch?v=_d1FQtrrigs"
+        }, 
+        {
+          "titulo": "Baby Dogs - Cute and Funny",
+          "url": "https://www.youtube.com/watch?v=X2lIovmNsUY"
+        }
+      ]
+    },
+    {
+      "titulo": "Cabrinhas",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "cabritinhos bonitos",
+        "url": "https://www.youtube.com/watch?v=kJRe9N0r7Xc"
+      },
+      "videos": [
+        {
+          "titulo": "Cabras",
+          "url": "https://www.youtube.com/watch?v=aSmDk82x6So"
+        },
+        {
+          "titulo": "Cute Baby Goats",
+          "url": "https://www.youtube.com/watch?v=QL6Ws4i07is"
+        },
+        {
+          "titulo": "Cute Baby Goats Compilation",
+          "url": "https://www.youtube.com/watch?v=hgV_-g_q1B0"
+        },
+        {
+          "titulo": "Cabra Gritando AAAAAAAAAAAA Igual Gente",
+          "url": "https://www.youtube.com/watch?v=ln1UVXLYW6M"
+        },
+        {
+          "titulo": "Filhotinhas de cabras elétricas brincando",
+          "url": "https://www.youtube.com/watch?v=S9Sh7cXnr5I"
+        }
+      ]
+    },
+    {
+      "titulo": "Passaros",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Papagaio fofo",
+          "url": "https://www.youtube.com/watch?v=zlOgps0PQK0"
+        },
+        {
+          "titulo": "PASSAROS ENGRAÇADOS",
+          "url": "https://www.youtube.com/watch?v=XpO9yM2ygLg"
+        },
+        {
+          "titulo": "Os Pássaros Mais Engraçados do MUNDO",
+          "url": "https://www.youtube.com/watch?v=E5d_0PMii_o"
+        },
+        {
+          "titulo": "Passaros Engraçados. Compilação",
+          "url": "https://www.youtube.com/watch?v=s4M9rsF0nSE"
+        },
+        {
+          "titulo": "Os Pássaros Mais Engraçados do MUNDO #3",
+          "url": "https://www.youtube.com/watch?v=fJCfppEAiVY"
+        }
+      ]
+    },
+    {
+      "titulo": "Diversos",
+      "cor": "red",
+      "link_extra": {
+        "text": "Os filhotes de animais mais fofos do mundo",
+        "url": "https://www.youtube.com/watch?v=htlBpUObLdc"
+      },
+      "videos": [
+        {
+          "titulo": "PORCO ESPINHO É O ANIMAL MAIS FOFO DA TERRA",
+          "url": "https://www.youtube.com/watch?v=Mbhg3R2PBtU"
+        },
+        {
+          "titulo": "Os filhotes de animais mais fofos do mundo #3",
+          "url": "https://www.youtube.com/watch?v=_J59WMyo6fc"
+        },
+        {
+          "titulo": "ESSES ANIMAIZINHOS VÃO ALEGRAR SUA QUARENTENA",
+          "url": "https://www.youtube.com/watch?v=kdhe7U6rFPQ"
+        },
+        {
+          "titulo": "OS ANIMAIS MAIS FOFOS E ENGRAÇADOS DO MUNDO",
+          "url": "https://www.youtube.com/watch?v=_mLuCbayBEU"
+        },
+        {
+          "titulo": "Os filhotes de animais mais fofos do mundo #2",
+          "url": "https://www.youtube.com/watch?v=y1JO3hXg8no"
+        }
+      ]
+    },
+    {
+      "titulo": "Filhotes",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Os filhotes de animais mais fofos do mundo!!!",
+        "url": "https://www.youtube.com/watch?v=htlBpUObLdc&t=38s"
+      },
+      "videos": [
+        {
+          "titulo": "Os filhotes de animais mais fofos do mundo #2",
+          "url": "https://www.youtube.com/watch?v=y1JO3hXg8no&t=21s"
+        },
+        {
+          "titulo": "Os filhotes de animais mais fofos do mundo #3",
+          "url": "https://www.youtube.com/watch?v=_J59WMyo6fc&t=29s"
+        },
+        {
+          "titulo": "Cute baby animals Videos",
+          "url": "https://www.youtube.com/watch?v=Eb0qWVmpY9U"
+        },
+        {
+          "titulo": "Cute baby animals Videos",
+          "url": "https://www.youtube.com/watch?v=t_1io-3KYRc"
+        },
+        {
+          "titulo": "Baby Dogs - Cute and Funny Dog Videos Compilation #23",
+          "url": "https://www.youtube.com/watch?v=pQGgPQA_FR4"
+        }
+      ]
+    }
+  ]
+}
