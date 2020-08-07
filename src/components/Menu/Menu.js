@@ -1,7 +1,8 @@
 import React from "react";
 import Logo from "../../img/Logo.png";
-import BotaoLink from "../botaolink/Botaolink";
+// import BotaoLink from "../botaolink/Botaolink";
 import "./menu.css"
+import Button from "../Button/button";
 
 
 function Menu() {
@@ -11,9 +12,9 @@ function Menu() {
                 <img className="Logo" src={Logo} alt="petlix logo" />
             </a>
 
-            <BotaoLink className="botaolink" href="/">
+            <Button className="botaolink" href="/">
                 Novo vídeo
-            </BotaoLink>
+            </Button>
         </nav>
     );
 }
